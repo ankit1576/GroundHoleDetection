@@ -61,8 +61,9 @@ python Ddetector.py
 - Python 3.x
 - Required libraries listed in `requirements.txt`:
   - OpenCV
-  - PyTorch
-  - TensorFlow
+  - Ultralytics yolo
+  - cvzone
+  - setup Cuda for GPU integration
   - Other dependencies
 ## video_sample
 https://github.com/user-attachments/assets/a1857b94-4353-44fa-a535-fcfd886e0f97
