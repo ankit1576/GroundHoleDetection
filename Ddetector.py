@@ -3,7 +3,7 @@ import cv2
 import cvzone
 import math
 
-cap = cv2.VideoCapture(1)  # For Webcam
+cap = cv2.VideoCapture(0)  # For Webcam
 # cap.set(3, 1280)
 # cap.set(4, 720)
 # cap = cv2.VideoCapture(0)  # For Video
@@ -33,7 +33,7 @@ while True:
             cls = int(box.cls[0])
             currentClass = classNames[cls]
             print(currentClass)
-            if conf>0.50:
+            if conf>0.70:
                 if currentClass =='Dig' :
                     myColor = (0, 255, 0)
 
