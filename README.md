@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/063e7fc8-d7ca-493e-96d5-c0b396339a5d)
 
 ## Description
-Ground Hole Detection is an automated object detection system designed to identify and monitor ground holes in border regions. Using the YOLOv8 model for real-time detection and localization with confidence score in a bounding boxes, it aims to enhance surveillance and safety in critical areas. This project integrates advanced computer vision techniques to provide accurate results while ensuring ease of use.
+Ground Hole Detection is an automated object detection (computer vision) system designed to identify and monitor ground holes in border regions. Using the YOLOv8 model for real-time detection and localization with confidence score in a bounding boxes, it aims to enhance surveillance and safety in critical areas. This project integrates advanced computer vision techniques to provide accurate results while ensuring ease of use.
 
 ## Table of Contents
 - [Installation](#installation)
