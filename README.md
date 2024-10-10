@@ -2,6 +2,10 @@
 # Project Title: Ground Hole Detection
 ![image](https://github.com/user-attachments/assets/063e7fc8-d7ca-493e-96d5-c0b396339a5d)
 
+
+https://github.com/user-attachments/assets/847b15e9-4572-4429-ad08-97b8db806b21
+
+
 ## Description
 Ground Hole Detection is an automated object detection (computer vision) system designed to identify and monitor ground holes in border regions. Using the YOLOv8 model for real-time detection and localization with confidence score in a bounding boxes, it aims to enhance surveillance and safety in critical areas. This project integrates advanced computer vision techniques to provide accurate results while ensuring ease of use.
 
@@ -94,5 +98,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitpandey1576/)
-
-https://github.com/ankit1576/GroundHoleDetection/blob/main/WhatsApp%20Video%202024-10-10%20at%2017.50.46_58499606%20(1).mp4
